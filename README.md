@@ -1,4 +1,4 @@
-## A little bit about me.  
+## A little bit about me  
   
 
 I am Saif, a Front-end Developer and a Graphic Designer.
