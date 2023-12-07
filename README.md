@@ -3,7 +3,7 @@
 
 I am Saif, a Front-end Developer and a Graphic Designer.
 <br/>
-I have a Bachelor's degree in Computer Science, and I am interested in Machine Learning and Data Science.  
+Software Engineer, Front-end Developer with a solid foundation in computer science principles and hands-on experience in creating responsive and user-friendly web interfaces.  
 <br/>  
 
 
