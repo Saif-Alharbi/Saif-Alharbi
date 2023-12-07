@@ -3,7 +3,7 @@
 
 I am Saif, a Front-end Developer and a Graphic Designer.
 <br/>
-Software Engineer, Front-end Developer with a solid foundation in computer science principles and hands-on experience in creating responsive and user-friendly web interfaces.  
+Software Engineer and Front-end Developer with a solid foundation in computer science principles and hands-on experience in creating responsive and user-friendly web interfaces.  
 <br/>  
 
 
